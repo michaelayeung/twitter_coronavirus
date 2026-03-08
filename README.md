@@ -24,19 +24,19 @@ and all of the `.country` files into a different file.
 ## Visualizations
 
 Top 10 countries who tweeted `#coronavirus` in 2020. The x-axis is the country and the y-axis is the number of times `#coronavirus` was tweeted. 
-![Top countries using #coronavirus](all.country.hashtag_coronavirus.png)
+![Top countries using #coronavirus](img/all.country.hashtag_coronavirus.png)
 
 Top 10 languages where `#coronavirus` was tweeted in 2020. The x-axis is the language and the y-axis is the number of times `#coronavirus` was tweeted. 
-![Top languages using #coronavirus](all.lang.hashtag_coronavirus.png)
+![Top languages using #coronavirus](img/all.lang.hashtag_coronavirus.png)
 
 Top 10 countries who tweeted `#코로나바이러스` in 2020. The x-axis is the country and the y-axis is the number of times `#코로나바이러스` was tweeted. 
-![Top countries using #코로나바이러스](all.country.hashtag_코로나바이러스.png)
+![Top countries using #코로나바이러스](img/all.country.hashtag_코로나바이러스.png)
 
 Top 10 languages were `#코로나바이러스` was tweeted in 2020. The x-axis is the language and the y-axis is the number of times `#코로나바이러스` was tweeted.
-![Top languages using #코로나바이러스](all.lang.hashtag_코로나바이러스.png)
+![Top languages using #코로나바이러스](img/all.lang.hashtag_코로나바이러스.png)
 
 Daily hashtag trends for `#coronavirus` and `#코로나바이러스` plotted over the year. The x-axis is the day of the year and the y-axis is the number of tweets on that day containing the hashtag. 
 
-![Year trends for #coronavirus and #코로나바이러스](outputs/hashtags_coronavirus_코로나바이러스_trend.png)
+![Year trends for #coronavirus and #코로나바이러스](img/hashtags_coronavirus_코로나바이러스_trend.png)
 
 
