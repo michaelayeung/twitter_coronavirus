@@ -1,6 +1,6 @@
 # Coronavirus Twitter Analysis
 
-This project scans all geotagged tweets sent in 2020 to monitor the spread of the coronavirus on social media. 
+This project scans all geotagged tweets sent in 2020 to monitor the spread of the coronavirus on social media. I processed over a billion tweets using Python and MapReduce techniques to visualize hashtag usage by country, language, and through a yearly trend. 
 
 
 **Skills Applied:**
